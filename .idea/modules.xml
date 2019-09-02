@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssmday02/ssmday02.iml" filepath="$PROJECT_DIR$/ssmday02/ssmday02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmday02/ssmday02_dao/ssmday02_dao.iml" filepath="$PROJECT_DIR$/ssmday02/ssmday02_dao/ssmday02_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmday02/ssmday02_domain/ssmday02_domain.iml" filepath="$PROJECT_DIR$/ssmday02/ssmday02_domain/ssmday02_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmday02/ssmday02_service/ssmday02_service.iml" filepath="$PROJECT_DIR$/ssmday02/ssmday02_service/ssmday02_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmday02/ssmday02_utils/ssmday02_utils.iml" filepath="$PROJECT_DIR$/ssmday02/ssmday02_utils/ssmday02_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssmday02/ssmday02_web/ssmday02_web.iml" filepath="$PROJECT_DIR$/ssmday02/ssmday02_web/ssmday02_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/svnday01/svnday01.iml" filepath="$PROJECT_DIR$/svnday01/svnday01.iml" />
+    </modules>
+  </component>
+</project>
